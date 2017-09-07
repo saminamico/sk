@@ -1,5 +1,5 @@
 name 'apache'
-maintainer 'Sami Namico'
+maintainer 'Sammi Nammico'
 maintainer_email 'shaiksami179@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apache'
